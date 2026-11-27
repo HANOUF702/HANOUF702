@@ -1,7 +1,12 @@
 <div align="center">
+  <img src="./hanouf-minecraft-theme.svg" alt="Hanouf Alzahrani - Minecraft Engineering Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # 👋 Hi, I'm Hanouf Alzahrani
 ### Computer Engineer | Networks, Cybersecurity & IoT Systems
+
 
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -58,3 +63,4 @@ I'm an **SCE-accredited Computer Engineering graduate (Networks Track)** from Ya
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HANOUF702&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HANOUF702&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
+
