@@ -1,3 +1,108 @@
-<div align="center">
-  <img src="./hanouf-minecraft-theme.svg" alt="Hanouf Alzahrani - Minecraft Engineering Banner" width="100%" />
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="100%" height="230">
+  <defs>
+    <linearGradient id="mcBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F14" />
+      <stop offset="55%" stop-color="#131A24" />
+      <stop offset="100%" stop-color="#0A111A" />
+    </linearGradient>
+
+    <filter id="mcGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  
+  <rect x="4" y="4" width="992" height="222" fill="url(#mcBg)" stroke="#2D3748" stroke-width="4" />
+  <rect x="10" y="10" width="980" height="210" fill="none" stroke="#1A202C" stroke-width="2" />
+
+  
+  <g stroke="#2D3748" stroke-width="1" opacity="0.22">
+    <line x1="540" y1="30" x2="970" y2="30" />
+    <line x1="540" y1="70" x2="970" y2="70" />
+    <line x1="540" y1="110" x2="970" y2="110" />
+    <line x1="540" y1="150" x2="970" y2="150" />
+    <line x1="540" y1="190" x2="970" y2="190" />
+  </g>
+
+  
+  <g transform="translate(565, 42)">
+    
+    <polyline points="68,48 165,48 165,98 258,98" fill="none" stroke="#991B1B" stroke-width="6" />
+    <polyline points="68,48 165,48 165,98 258,98" fill="none" stroke="#EF4444" stroke-width="2" stroke-dasharray="10,10" filter="url(#mcGlow)">
+      <animate attributeName="stroke-dashoffset" from="20" to="0" dur="0.9s" repeatCount="indefinite" />
+    </polyline>
+
+    
+    <rect x="159" y="42" width="12" height="12" fill="#F87171" filter="url(#mcGlow)">
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.1s" repeatCount="indefinite" />
+    </rect>
+
+    
+    <g transform="translate(12, 16)">
+      <animateTransform attributeName="transform" type="translate" values="12,16;12,10;12,16" dur="2.6s" repeatCount="indefinite" />
+      
+      <rect x="0" y="0" width="56" height="56" fill="#7C4D2B" stroke="#111827" stroke-width="3" />
+      
+      <rect x="0" y="0" width="56" height="18" fill="#4ADE80" stroke="#111827" stroke-width="3" />
+      <rect x="8" y="18" width="8" height="8" fill="#4ADE80" />
+      <rect x="28" y="18" width="10" height="6" fill="#4ADE80" />
+      <rect x="44" y="18" width="6" height="10" fill="#4ADE80" />
+      
+      <rect x="6" y="4" width="12" height="4" fill="#86EFAC" />
+      <rect x="14" y="34" width="6" height="6" fill="#5C381E" />
+      <rect x="38" y="40" width="6" height="6" fill="#5C381E" />
+      <text x="28" y="74" text-anchor="middle" fill="#86EFAC" font-family="Courier New, monospace" font-size="11" font-weight="bold">IOT / BUILD</text>
+    </g>
+
+    
+    <g transform="translate(137, 88)">
+      <animateTransform attributeName="transform" type="translate" values="137,88;137,94;137,88" dur="3s" repeatCount="indefinite" />
+      <rect x="0" y="0" width="56" height="56" fill="#9A3412" stroke="#111827" stroke-width="3" />
+      <rect x="10" y="10" width="36" height="36" fill="#F97316" stroke="#111827" stroke-width="2" />
+      <rect x="20" y="20" width="16" height="16" fill="#FDBA74">
+        <animate attributeName="fill" values="#FDBA74;#FEF08A;#FDBA74" dur="1.6s" repeatCount="indefinite" />
+      </rect>
+      <text x="28" y="74" text-anchor="middle" fill="#FDBA74" font-family="Courier New, monospace" font-size="11" font-weight="bold">NET LOGIC</text>
+    </g>
+
+    
+    <g transform="translate(258, 66)">
+      <animateTransform attributeName="transform" type="translate" values="258,66;258,60;258,66" dur="2.4s" repeatCount="indefinite" />
+      <rect x="0" y="0" width="62" height="62" fill="#0284C7" stroke="#111827" stroke-width="3" />
+      <rect x="8" y="8" width="46" height="46" fill="#38BDF8" stroke="#0369A1" stroke-width="2" />
+      
+      <polygon points="31,14 48,31 31,48 14,31" fill="#BAE6FD" stroke="#0284C7" stroke-width="2" filter="url(#mcGlow)">
+        <animate attributeName="opacity" values="1;0.75;1" dur="2s" repeatCount="indefinite" />
+      </polygon>
+      <text x="31" y="80" text-anchor="middle" fill="#7DD3FC" font-family="Courier New, monospace" font-size="11" font-weight="bold">CYBER SHIELD</text>
+    </g>
+  </g>
+
+  
+  <text x="48" y="72" fill="#F8FAFC" font-family="Courier New, monospace" font-size="31" font-weight="bold" letter-spacing="1">
+    HANOUF ALZAHRANI
+  </text>
+
+  <text x="48" y="102" fill="#4ADE80" font-family="Courier New, monospace" font-size="13.5" font-weight="bold">
+    COMPUTER ENG (NETWORKS) • IOT &amp; CYBERSECURITY
+  </text>
+
+  
+  <g transform="translate(48, 118)">
+    <rect x="0" y="0" width="320" height="10" fill="#1E293B" stroke="#0F172A" stroke-width="2" />
+    <rect x="2" y="2" width="110" height="6" fill="#4ADE80">
+      <animate attributeName="x" values="2;206;2" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <text x="48" y="154" fill="#E2E8F0" font-family="Courier New, monospace" font-size="12.5">
+    SCE Accredited • TDF GROW 1st Place Winner
+  </text>
+  <text x="48" y="177" fill="#94A3B8" font-family="Courier New, monospace" font-size="12">
+    ESP32 &amp; Embedded • Redstone-Style Net &amp; IDS
+  </text>
+</svg>
