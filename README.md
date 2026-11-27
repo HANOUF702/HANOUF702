@@ -1,22 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=200&section=header&text=Hanouf%20Alzahrani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Networks,%20Cybersecurity%20%26%20IoT%20Systems&descAlignY=58&descSize=16" width="100%" />
-</div>
 
-<p align="center">
+# 👋 Hi, I'm Hanouf Alzahrani
+### Computer Engineer | Networks, Cybersecurity & IoT Systems
+
+<p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hanouf.alzahrani7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/SCE_Registered-Graduate_Engineer-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TDF_GROW_Hackathon-1st_Place_Winner-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCE%20Registered-Graduate%20Engineer-059669?style=for-the-badge" alt="SCE Registered" />
+  <img src="https://img.shields.io/badge/TDF%20GROW%20Hackathon-1st%20Place%20Winner-F59E0B?style=for-the-badge" alt="TDF GROW Winner" />
 </p>
+
+</div>
 
 ---
 
-### 👋 About Me
-Hi! I'm **Hanouf Alzahrani**, an **SCE-accredited Computer Engineering graduate (Networks Track)** from Yanbu Industrial College, passionate about building resilient infrastructure, securing enterprise & OT networks, and developing intelligent IoT solutions.
+### 🚀 About Me
+I'm an **SCE-accredited Computer Engineering graduate (Networks Track)** from Yanbu Industrial College, passionate about building resilient infrastructure, securing enterprise & OT networks, and developing intelligent IoT solutions.
 
 - 🏆 **1st Place Winner** at the **TDF GROW Tourism Hackathon (2026)** — Led the system architecture for **Khuta**, a smart IoT & AI cultural tourism ecosystem.
 - 🛡️ **Cybersecurity & Network Operations:** Hands-on experience in Active Directory governance, wireless security auditing, packet analysis, and 99.9% high-availability switching/routing operations.
@@ -36,7 +39,7 @@ Hi! I'm **Hanouf Alzahrani**, an **SCE-accredited Computer Engineering graduate 
 
 ---
 
-### 🚀 Featured Projects
+### 💻 Featured Projects
 
 - 🛡️ **[CyberSentry-WIDS](https://github.com/HANOUF702/CyberSentry-WIDS-)** — *Graduation Project*  
   An offline Wireless Intrusion Detection System combining ESP32/Arduino packet sniffers, a Python ML anomaly engine, and Wireshark deep packet analysis to detect and alert on 802.11 DoS attacks with 100% accuracy.
